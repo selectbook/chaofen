@@ -10,13 +10,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.louis</groupId>
-	<artifactId>mango-backup</artifactId>
+	<groupId>net.chaofen</groupId>
+	<artifactId>chaofen-backup</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	
-	<name>mango-backup</name>
-	<description>mango-backup</description>
+	<name>chaofen-backup</name>
+	<description>chaofen-backup</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -51,8 +51,8 @@
 		    <artifactId>spring-cloud-starter-consul-discovery</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.louis</groupId>
-			<artifactId>mango-common</artifactId>
+			<groupId>net.chaofen</groupId>
+			<artifactId>chaofen-common</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 	</dependencies>

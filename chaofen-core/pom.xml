@@ -10,12 +10,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.louis</groupId>
-	<artifactId>mango-core</artifactId>
+	<groupId>net.chaofen</groupId>
+	<artifactId>chaofen-core</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>mango-core</name>
-	<description>mango-core</description>
+	<name>chaofen-core</name>
+	<description>chaofen-core</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -32,8 +32,8 @@
 		    <version>1.2.5</version>
 		</dependency>
 		<dependency>
-			<groupId>com.louis</groupId>
-			<artifactId>mango-common</artifactId>
+			<groupId>net.chaofen</groupId>
+			<artifactId>chaofen-common</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 	</dependencies>

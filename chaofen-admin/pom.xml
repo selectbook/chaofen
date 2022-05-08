@@ -8,10 +8,10 @@
 		<version>2.0.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.louis</groupId>
-	<artifactId>mango-admin</artifactId>
+	<groupId>net.chaofen</groupId>
+	<artifactId>chaofen-admin</artifactId>
 	<version>1.0.0</version>
-	<name>mango-admin</name>
+	<name>chaofen-admin</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -102,8 +102,8 @@
 			<version>1.2.48</version>
 		</dependency>
 		<dependency>
-			<groupId>com.louis</groupId>
-			<artifactId>mango-core</artifactId>
+			<groupId>net.chaofen</groupId>
+			<artifactId>chaofen-core</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 	</dependencies>

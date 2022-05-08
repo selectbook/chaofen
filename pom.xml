@@ -37,16 +37,16 @@
         </plugins>
     </build>
     <modules>
-        <module>mango-admin</module>
-        <module>mango-common</module>
-        <module>mango-core</module>
-        <module>mango-backup</module>
-        <module>mango-monitor</module>
-        <module>mango-conifg</module>
-        <module>mango-consumer</module>
-        <module>mango-hystrix</module>
-        <module>mango-producer</module>
-        <module>mango-producer2</module>
-        <module>mango-zuul</module>
+        <module>chaofen-admin</module>
+        <module>chaofen-common</module>
+        <module>chaofen-core</module>
+        <module>chaofen-backup</module>
+        <module>chaofen-monitor</module>
+        <module>chaofen-conifg</module>
+        <module>chaofen-consumer</module>
+        <module>chaofen-hystrix</module>
+        <module>chaofen-producer</module>
+        <module>chaofen-producer2</module>
+        <module>chaofen-zuul</module>
     </modules>
 </project>

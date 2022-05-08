@@ -10,13 +10,13 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.louis</groupId>
-	<artifactId>mango-consumer</artifactId>
+	<groupId>net.chaofen</groupId>
+	<artifactId>chaofen-consumer</artifactId>
 	<version>${project.version}</version>
 	<packaging>jar</packaging>
 
-	<name>mango-consumer</name>
-	<description>mango-consumer</description>
+	<name>chaofen-consumer</name>
+	<description>chaofen-consumer</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
