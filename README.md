@@ -1,2 +1,2 @@
 # chaofen
-炒粉后台管理系统，解放程序员生产力
+Powerful web back-end framework, completely liberate your productivity (炒粉—— 一款强大的web后端框架，彻底解放你的生产力)
