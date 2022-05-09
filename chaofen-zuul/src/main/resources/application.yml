@@ -2,7 +2,7 @@ server:
   port: 8010
 spring:
   application:
-    name: mango-zuul
+    name: chaofen-zuul
   cloud:
     consul:
       host: localhost

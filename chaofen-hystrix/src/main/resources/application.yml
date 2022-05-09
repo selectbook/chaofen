@@ -2,7 +2,7 @@ server:
   port: 8501
 spring:
   application:
-    name: mango-hystrix
+    name: chaofen-hystrix
   cloud:
     consul:
       host: localhost

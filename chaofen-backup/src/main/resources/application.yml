@@ -3,7 +3,7 @@ server:
   port: 8002
 spring:
   application:
-    name: mango-backup
+    name: chaofen-backup
   boot:
     admin:
       client:

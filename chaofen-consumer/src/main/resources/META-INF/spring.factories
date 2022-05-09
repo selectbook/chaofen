@@ -1,1 +1,1 @@
-org.springframework.cloud.bootstrap.BootstrapConfiguration=com.louis.mango.consumer.RetryConfiguration
+org.springframework.cloud.bootstrap.BootstrapConfiguration=net.chaofen.consumer.RetryConfiguration

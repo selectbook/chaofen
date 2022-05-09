@@ -2,7 +2,7 @@ server:
   port: 8005
 spring:
   application:
-    name: mango-consumer
+    name: chaofen-consumer
   boot:
     admin:
       client:

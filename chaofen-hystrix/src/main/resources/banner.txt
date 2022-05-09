@@ -6,4 +6,4 @@
 |___|  / ____/____  > |__|  |__|  |__/__/\_ \
      \/\/         \/                       \/ 
 
-===== Mango Application == Version: 1.0 =====
+===== ChaoFen Application == Version: 1.0 =====

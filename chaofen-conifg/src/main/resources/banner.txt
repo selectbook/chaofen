@@ -5,4 +5,4 @@ _/ ___\/  _ \ /    \   __\|  |/ ___\
  \___  >____/|___|  /__|  |__\___  / 
      \/           \/        /_____/   
          
-=== Mango Application = Version: 1.0 ===
+=== ChaoFen Application = Version: 1.0 ===
